@@ -1,3 +1,7 @@
+# deployed using heroku, 1-> https://dashboard.heroku.com/apps  ;  youtube link for reference 2-> https://youtu.be/3tK9qIdoJ6I
+# my online hosting link for this project -> https://sroy-calculator.herokuapp.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
